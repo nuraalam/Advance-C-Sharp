@@ -1,0 +1,6 @@
+C:\Users\PC21\Desktop\ClassTest\StudentManagmentApp\StudentManagmentApp\obj\Debug\StudentManagmentApp.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\ClassTest\StudentManagmentApp\StudentManagmentApp\bin\StudentManagmentApp.dll.config
+C:\Users\PC21\Desktop\ClassTest\StudentManagmentApp\StudentManagmentApp\bin\StudentManagmentApp.dll
+C:\Users\PC21\Desktop\ClassTest\StudentManagmentApp\StudentManagmentApp\bin\StudentManagmentApp.pdb
+C:\Users\PC21\Desktop\ClassTest\StudentManagmentApp\StudentManagmentApp\obj\Debug\StudentManagmentApp.dll
+C:\Users\PC21\Desktop\ClassTest\StudentManagmentApp\StudentManagmentApp\obj\Debug\StudentManagmentApp.pdb
